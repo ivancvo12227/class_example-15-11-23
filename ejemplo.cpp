@@ -9,7 +9,7 @@ int main()
     string password = "";
     cout << "Ingrese la contrasenia: ";
     cin >> password;
-    if(password == "myClave")
+    if(password == "miClave")
     {
         cout << "Contrasenia correcta. Bienvenido";
     }
